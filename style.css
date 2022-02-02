@@ -1,0 +1,25 @@
+
+@import url("./style2.css");
+body {
+    background-color: rgb(236, 255, 131);
+    font-size: 23px;
+    color: rgb(255, 0, 0);
+    text-align: center;
+}
+.box1 {
+    width: 400px;
+    height: 400px;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box2 {
+    width: 100px;
+    height: 100px;
+    background-color: white;
+}
+.boxq {
+    display:flex;
+    justify-content: center;
+}
